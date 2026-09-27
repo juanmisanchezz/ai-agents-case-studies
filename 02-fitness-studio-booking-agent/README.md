@@ -1,6 +1,6 @@
 # WhatsApp booking agent for a functional-training studio
 
-> Single LLM agent with a small tool set that lets ~95 regular clients book, move and cancel group sessions over WhatsApp, with a first-come-first-served waiting list and automatic weekly schedules.
+> Single LLM agent with a small tool set that let ~95 regular clients book, move and cancel group sessions over WhatsApp, with a first-come-first-served waiting list and automatic weekly schedules.
 
 **Stack:** n8n · LLM agent with tool calling · NocoDB (on Postgres) · Google Calendar · Whapi.Cloud (WhatsApp) · Docker Swarm on a VPS
 

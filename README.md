@@ -1,6 +1,6 @@
 # AI agents & automation — case studies
 
-Real systems I designed, built and ran in production for small businesses in Spain (2026): WhatsApp booking agents powered by LLMs, and a custom CRM. Each case explains the problem, the architecture, and the engineering decisions — most of them triggered by real bugs found in production.
+Real systems I designed and built for small businesses in Spain (2026): WhatsApp booking agents powered by LLMs, and a custom CRM. Each case explains the problem, the architecture, and the engineering decisions — most of them triggered by real bugs found with real users.
 
 | # | Case | What it is | Stack |
 |---|------|-----------|-------|
@@ -18,7 +18,7 @@ Real systems I designed, built and ran in production for small businesses in Spa
 
 ## About the code
 
-The production workflows are n8n JSON files that contain credential references, IDs and customer data, so they are not published. The case studies describe the architecture and the decisions instead.
+The workflows are n8n JSON files that contain credential references, IDs and customer data, so they are not published. The case studies describe the architecture and the decisions instead.
 
 ---
 

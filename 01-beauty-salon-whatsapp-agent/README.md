@@ -1,6 +1,6 @@
 # WhatsApp booking agent for a beauty salon
 
-> Multi-agent LLM system that books, changes and cancels appointments over WhatsApp for a salon with 200+ services and 8 professionals. In production with real customers.
+> Multi-agent LLM system that books, changes and cancels appointments over WhatsApp for a salon with 200+ services and 8 professionals.
 
 **Stack:** n8n · Claude Haiku · Supabase (self-hosted Postgres) · Google Calendar · Evolution API (WhatsApp) · Docker Swarm on a VPS
 
@@ -82,7 +82,6 @@ Moved from a no-code database (record limits, no relational integrity) to self-h
 
 ## Results
 
-- In production on the salon's real WhatsApp number.
 - 215 services, 7 add-ons and 8 professionals' calendars served from one database.
 - 113 appointments migrated from the previous platform, with duplicates detected and resolved.
 - Full audit: 11 workflows / 168 nodes reviewed, dead code removed, 0 validation errors.
